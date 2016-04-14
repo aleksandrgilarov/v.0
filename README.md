@@ -8,3 +8,4 @@ Yazılım Mühendisliği 2015-2016
 * [Hüsnü İşleyen](https://github.com/slyn)
 * [Cemal Layık](http://github.com/lacivert7)
 * [Fatih Aygün](http://github.com/fatih36)
+* [Aleksandrs Gilarovs](https://github.com/aleksandrgilarov)
